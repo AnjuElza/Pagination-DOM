@@ -1,0 +1,11 @@
+.table{
+    justify-content: center;
+
+    border: 2px solid black;
+    width: 90%;
+}
+.main-container{
+    width: 90%;
+    margin: auto;
+    align-items: center;
+}
